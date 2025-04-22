@@ -1,6 +1,8 @@
 # IntelMat - Intel oneAPI Python Matrix Acceleration
 ![Intel oneAPI](https://img.shields.io/badge/Intel%20oneAPI-Python%20MatrixAcceleration-blue) ![License](https://img.shields.io/github/license/0xSaikat/IntelMat)
 
+#### Northern University of Business & Technology Khulna | Python & AI enthusiast. Building fast, optimized tools for ML, data, and scientific computing.
+
 This repository demonstrates the use of Intel technologies to accelerate matrix operations in Python. It leverages Intel's oneAPI ecosystem, specifically focusing on Intel optimizations for NumPy operations.
 
 ## Intel Technologies Used
@@ -62,6 +64,14 @@ On Intel hardware, you should see significant performance improvements when usin
 Matrix operations are fundamental to many scientific computing, machine learning, and data science workflows. By leveraging Intel's specialized libraries, we can achieve significant performance improvements on Intel hardware without changing application code.
 
 This project demonstrates Intel's commitment to providing optimized software libraries that take advantage of hardware capabilities to accelerate Python-based workloads.
+
+## About Me
+
+I am **Sakil Hasan Saikat**, a cybersecurity enthusiast and the founder of [HackBit](https://hackbit.org). I specialize in offensive security, penetration testing, and building automated tools for cybersecurity research. My passion for ethical hacking has driven me to create several tools that contribute to the security community.
+
+You can learn more about my work on my personal website: [https://saikat.hackbit.org](https://saikat.hackbit.org).
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/0xsaikat/) for updates and collaborations.
 
 ## License
 
