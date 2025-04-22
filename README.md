@@ -39,7 +39,7 @@ The project demonstrates matrix multiplication acceleration using Intel's optimi
 
 2. Install dependencies:
    ```
-   pip install numpy intel-extension-for-numpy py-cpuinfo
+   python -m pip install -i https://pypi.anaconda.org/intel/simple numpy
    ```
 
 ## Usage
